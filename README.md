@@ -9,14 +9,15 @@
 ### Либы
  * [GitHub - vodka2/vk-audio-token: Code that obtains VK tokens that work for VK audio API. Код для получения токена VK, подходящего для Audio API](https://github.com/vodka2/vk-audio-token) - Может решить нашу проблему (мб не работает и долго не проживет)
  * [vk_api/audio.py at master · python273/vk_api · GitHub](https://github.com/python273/vk_api/blob/master/vk_api/audio.py) - Выглядит хорошо
- * [GitHub - nvbn/python-yamusic: Python yandex music Library](https://github.com/nvbn/python-yamusic/)
- * [GitHub - MarshalX/yandex-music-api: Неофициальная библиотека для работы с API сервиса Яндекс.Музыка](https://github.com/MarshalX/yandex-music-api)
+
 ### Дока
 
 ## Yandex
 ### Статьи
 ### Примеры
 ### Либы
+* [GitHub - nvbn/python-yamusic: Python yandex music Library](https://github.com/nvbn/python-yamusic/)
+* [GitHub - MarshalX/yandex-music-api: Неофициальная библиотека для работы с API сервиса Яндекс.Музыка](https://github.com/MarshalX/yandex-music-api)
 * [GitHub - itsmepetrov/yandex-music-api: A Node.js wrapper for the Yandex.Music API (Unofficial) http://music.yandex.ru](https://github.com/itsmepetrov/yandex-music-api) - работает только для 1 текущего пользователя
 ### Дока
 * [Подключение API - Технологии Яндекса](https://yandex.ru/dev/audio/jsapi/doc/dg/concepts/load-docpage/)
