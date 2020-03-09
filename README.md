@@ -37,8 +37,10 @@
 
 # Концерты
 ## Афиша
+* [API](https://yandex.ru/dev/afisha/yaga_in/doc/concepts/about-docpage/) - указано что платное, надо договариваться
 ## Kuda Go
-[Афиша мероприятий KudaGo запустила открытый API c местами и событиями — Офтоп на vc.ru](https://vc.ru/flood/9813-kudago-api) - Надо писать
+* [Афиша мероприятий KudaGo запустила открытый API c местами и событиями — Офтоп на vc.ru](https://vc.ru/flood/9813-kudago-api) - Надо писать
+* [API](https://yandex.ru/dev/afisha/yaga_in/doc/concepts/about-docpage/) - наш кандидат
 ## Билетер (тинькоф)
 ## Action List
 [ActionList API: Данные о концертах,афишах, музыкальных исполнителях и клубах](http://api.actionlist.ru/)
